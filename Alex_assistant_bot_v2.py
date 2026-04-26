@@ -35,11 +35,11 @@ VN_TZ = pytz.timezone("Asia/Ho_Chi_Minh")
 # ★ BƯỚC BẮT BUỘC: ĐIỀN THÔNG TIN CỦA BẠN VÀO ĐÂY ★
 # ============================================================
 
-TELEGRAM_TOKEN   = "8751459921:AAEnefnZ6O1mfP8QmCBj92fCKtgfqbieBVY"
+TELEGRAM_TOKEN   = "<TOKEN_ID>"
 # Lấy từ @BotFather trên Telegram
 # Ví dụ: "7123456789:AAHdqTcvCHxxxxxxxxxxxxxxxxx"
 
-TELEGRAM_CHAT_ID = "8172586515"
+TELEGRAM_CHAT_ID = "<TELEGRAM_ID>"
 # Lấy từ @userinfobot trên Telegram
 # Ví dụ: "123456789"
 
